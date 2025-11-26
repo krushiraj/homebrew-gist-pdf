@@ -2,7 +2,7 @@ class GistPdf < Formula
   desc "Convert GitHub Gists to beautifully formatted PDFs"
   homepage "https://github.com/krushiraj/gist-pdf"
   url "https://github.com/krushiraj/gist-pdf/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+  sha256 "4bacff955fced6fa1c8935590933bc670953935945c061ac34221cd0ae54fbb9"
   license "MIT"
 
   depends_on "rust" => :build
